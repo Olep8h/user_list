@@ -1,5 +1,4 @@
 import React from 'react';
-
 export const Success = ({ count }) => {
     return (
         <div class="success-block">
